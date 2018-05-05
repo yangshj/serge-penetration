@@ -12,4 +12,5 @@ http://www.cnblogs.com/wunaozai/p/5545150.html
 java -Djava.ext.dirs=<多个jar包的目录> com.jiuqi.penetration.udp.EchoServer
 java -Djava.ext.dirs=./ com.jiuqi.penetration.udp.EchoServer
 
+Linux上运行，把依赖的jar包放到同一目录下
 /opt/java/jdk1.7.0_79/bin/java -Djava.ext.dirs=./ com.jiuqi.penetration.udp.EchoServer
